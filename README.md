@@ -9,5 +9,5 @@ Part3: Implementing a paravirtualized crypto-device to be used by the chat appli
 The whole project is an assigment for the [*Operating Systems Laboratory course summer 2015*](http://www.cslab.ece.ntua.gr/courses/compsyslab/) at NTUA ECE.
 
 
-Christos Markou  < chrs.markx86@gmail.com ><br />
+Chris Mark  < chrs.markx86@gmail.com ><br />
 Nikolaos Papadis < nikpapadis@gmail.com > 
